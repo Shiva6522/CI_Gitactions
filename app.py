@@ -11,3 +11,4 @@ def divide(a, b):
     if b == 0:
         return "Cannot divide by zero"
     return a / b
+# app.py file describes all the function and testing functions are in test_app.py file
